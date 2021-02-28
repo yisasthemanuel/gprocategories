@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>org.jlobato.gpro</groupId>
 	<artifactId>gprocategories</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0.RELEASE</version>
 	<name>gprocategories</name>
 	<description>Microservicio para el acceso a las categorías de GPRO</description>
 	<properties>
