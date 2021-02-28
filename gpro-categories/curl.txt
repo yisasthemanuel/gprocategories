@@ -1,0 +1,4 @@
+curl -v http://localhost:8080/categories
+curl -v -d @category.json -H "Content-type: application/json" http://localhost:8080/categories/new
+curl -v -d @category-updated.json -H "Content-type: application/json" -X PUT http://localhost:8080/categories/9
+curl -X DELETE http://localhost:8080/categories/9

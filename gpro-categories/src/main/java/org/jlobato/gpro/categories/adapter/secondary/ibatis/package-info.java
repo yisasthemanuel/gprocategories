@@ -1,0 +1,1 @@
+package org.jlobato.gpro.categories.adapter.secondary.ibatis;
